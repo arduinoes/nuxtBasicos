@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "los-guardianes-de-la-galaxia",
+  "private_key_id": "7e39aae1fc5d55db044a4ca77864e24a3304a592",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzEHDOhvvB0nkB\nlk2n4u9t4kObhlQYmvUhgnp/E2r+chNZx9sasRqdTOwRNBDHjV5Y6wZ4/BePpaRV\ncqw3cMb4py4x3TUf9X3rvrhOoWUQSX44f6R/HvFy/alKKTB+FBRIkUe0xpAH8VQK\n1IdME4fRL5LzI9cK78jIw6MEvkHgs5LixeadDv9TU+h9UvwpPol3SI95taH8qTlI\n/MGZYthbOgYenSFDSx0iHiS7LSnLM+z3Do+X97Mtp0hw4CVUWxd7Gztr/7kvYncJ\n5QyA4oDPvEGzFbIRbPWyDZE4ZueJyBR/L/zHJ/4cPFw6DcA5Ps+xs8pnEIb5Wwh+\nvLsS7mKnAgMBAAECggEACbXgiDKlwHMLgNyHxYz28vyMMgjs0pDErlaHEhEZgkbp\nabr+1Mm56cHcI2qxZkDyVtwX88On+3A+Iywezrrc72sRhD68vMjxVTF4iTsTYfi6\nUZIKd6JT8apz3cOyD4RDPVQzkUgbU3Lw3c18sNF2Ug/EZk8RQFSUjN6fHoi6xdaf\n7Zo9cv045P21YQYuxPVZDI/OFLqmZUYYnLUXlLRlbiRhk1re9XI8QL8GcbRjU/1D\n4uxElDhkRBEvVKoOztp825SlpfP1P7n595cOPkN6yejoQdKS92RDVfvfpEi5NZAo\nCfbOTni/o/yU1vElKDE4UKtUHcC3/uR9L+Lya86uIQKBgQDYBFBUdL1tFoofy9iN\nWgNrjFp+//tByPmPEgr5IS280L+FmkTnu2Cn4mwiS1mlLhcD+lfTncHD53Ur4nTU\na0yQO9WmpANdehqAV2WwHr/+g8DIK/1azymBAM5KgKKiZ1+lSAukPmQbFUvJWfSD\nqQyOjECheqDBi0nhPF0Q3//DHwKBgQDUNSxPp+j9Z6zx16/ARFiBU+PvA7AQ+QRh\n1kyqhOL7YEgZrMtO+TUatN7fFrw/3lSr5BFixGe+1gKdNyk6qLYYK21BCZAUkFAN\nom7OPf60nmiEtkmymOageEFR8YJ4QZI9ywiqjuJGqm9vCbvgaSDJSzhTWCK3MhoU\nXCa833C3eQKBgQCaQtJezZMsoOj4dejqYHqKxgsmIIV8YBofWoItkM0JxoTO0vEc\nD0qh+WbBQs/8zqIu/ArWGxVxYgvhz/EgdJOTeLdFLmEc0wKz3jXHBN6U0d/M0uU1\ngTUhY8Ltn1kE4w+Bh6aQnuF8GcQqQSwFDabi8TOCXYEJVf/nceUAFQaffwKBgCcf\nDmY4/FkLLfT/4GS/tNlSz+iWc3UNk2M+ELA3A2l4XJJvKqQKiWG9CoFyPY5AvLdb\numDM+JtT9PNq4ezwgXF/QAsHakqAOGHrGiZng3dk5Lvipz+HtKzMvq4OqhDldcJy\nlcxrvwdsEFMWJk6+0s6JUX779ppzYB90xad4Qd1xAoGAQU04il3NXulzQsFU6CHj\nwLcizp0zs2WAb8wbVSVguejSHVqdJrY1pQnDHsa8klgQnrD+6I5TdTr/FvWyvKsv\nDcLsI9qIL6hkrFcgovi/QVOeKq5Hl56VdERbxWh97Wc74MvUTHijSFiCAAPhMwHK\nvPenJRyKRw3TC9CyY0ZP5sk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d4kga@los-guardianes-de-la-galaxia.iam.gserviceaccount.com",
+  "client_id": "112643526027453111835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d4kga%40los-guardianes-de-la-galaxia.iam.gserviceaccount.com"
+}
